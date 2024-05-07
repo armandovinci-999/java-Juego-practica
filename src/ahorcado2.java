@@ -36,7 +36,6 @@ public class ahorcado2 {
                 // Estructura de control condicion
                 if (palabraSecreta.charAt(i) == letra){
                     letrasAdivinadas[i] = letra;
-                    letraCorrecta = true;
                 }
             }
 
